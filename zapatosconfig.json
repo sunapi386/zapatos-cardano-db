@@ -1,0 +1,6 @@
+{
+  "db": {
+    "connectionString": "postgresql://cardano:qwe123@localhost:5432/dbsync"
+  },
+  "outDir": "./src"
+}
