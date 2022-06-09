@@ -1,0 +1,12 @@
+{
+  "name": "zapatos-cardano-db",
+  "version": "1.0.0",
+  "description": "Generated TypeScript schema for every table in cardano-db-sync",
+  "main": "index.js",
+  "repository": "https://github.com/sunapi386/zapatos-cardano-db",
+  "author": "Jason Sun <jason@sunapi386.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "zapatos": "^6.0.1"
+  }
+}
